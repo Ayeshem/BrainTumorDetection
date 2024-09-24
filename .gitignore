@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+venv
+
+# Ignore system files
+.DS_Store
+
+
+brain_tumor/
+
+lg_model.pkl
+
+svm_model.pkl
